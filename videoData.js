@@ -174,217 +174,217 @@ const videoData = {
     baseroomcharacter: {
         categories: [{
                 category: "Shroy_sep",
-                src: "./animation/img/SecretBaseCharacter_1_rgba.png",
+                src: "./img/SecretBaseCharacter_1_rgba.png",
                 alt: "Shroy_sep"
             }, {
                 category: "OureaV2_test",
-                src: "./animation/img/SecretBaseCharacter_2_rgba.png",
+                src: "./img/SecretBaseCharacter_2_rgba.png",
                 alt: "OureaV2_test"
             }, {
                 category: "Melody0802merge",
-                src: "./animation/img/SecretBaseCharacter_3_rgba.png",
+                src: "./img/SecretBaseCharacter_3_rgba.png",
                 alt: "Melody0802merge"
             }, {
                 category: "Snow_0727",
-                src: "./animation/img/SecretBaseCharacter_4_rgba.png",
+                src: "./img/SecretBaseCharacter_4_rgba.png",
                 alt: "Snow_0727"
             }, {
                 category: "BlackGaGa_edit",
-                src: "./animation/img/SecretBaseCharacter_5_rgba.png",
+                src: "./img/SecretBaseCharacter_5_rgba.png",
                 alt: "BlackGaGa_edit"
             }, {
                 category: "Nocturne0318B",
-                src: "./animation/img/SecretBaseCharacter_6_rgba.png",
+                src: "./img/SecretBaseCharacter_6_rgba.png",
                 alt: "Nocturne0318B"
             }, {
                 category: "LIN_edit",
-                src: "./animation/img/SecretBaseCharacter_7_rgba.png",
+                src: "./img/SecretBaseCharacter_7_rgba.png",
                 alt: "LIN_edit"
             }, {
                 category: "kamila_edit",
-                src: "./animation/img/SecretBaseCharacter_8_rgba.png",
+                src: "./img/SecretBaseCharacter_8_rgba.png",
                 alt: "kamila_edit"
             }
         ],
         Shroy_sep: [{
                 title: "Idle1",
-                url: "./animation/gif/Shroy_sep/Idle1.gif"
+                url: "./gif/Shroy_sep/Idle1.gif"
             }, {
                 title: "Idle2",
-                url: "./animation/gif/Shroy_sep/Idle2.gif"
+                url: "./gif/Shroy_sep/Idle2.gif"
             }, {
                 title: "PickUp",
-                url: "./animation/gif/Shroy_sep/PickUp.gif"
+                url: "./gif/Shroy_sep/PickUp.gif"
             }, {
                 title: "Reaction",
-                url: "./animation/gif/Shroy_sep/Reaction.gif"
+                url: "./gif/Shroy_sep/Reaction.gif"
             }, {
                 title: "Touch1",
-                url: "./animation/gif/Shroy_sep/Touch1.gif"
+                url: "./gif/Shroy_sep/Touch1.gif"
             }, {
                 title: "Touch2",
-                url: "./animation/gif/Shroy_sep/Touch2.gif"
+                url: "./gif/Shroy_sep/Touch2.gif"
             }, {
                 title: "Walk",
-                url: "./animation/gif/Shroy_sep/Walk.gif"
+                url: "./gif/Shroy_sep/Walk.gif"
             }
         ],
         OureaV2_test: [{
                 title: "Idle1",
-                url: "./animation/gif/OureaV2_test/Idle1.gif"
+                url: "./gif/OureaV2_test/Idle1.gif"
             }, {
                 title: "Idle2",
-                url: "./animation/gif/OureaV2_test/Idle2.gif"
+                url: "./gif/OureaV2_test/Idle2.gif"
             }, {
                 title: "PickUp",
-                url: "./animation/gif/OureaV2_test/PickUp.gif"
+                url: "./gif/OureaV2_test/PickUp.gif"
             }, {
                 title: "Reaction",
-                url: "./animation/gif/OureaV2_test/Reaction.gif"
+                url: "./gif/OureaV2_test/Reaction.gif"
             }, {
                 title: "Touch1",
-                url: "./animation/gif/OureaV2_test/Touch1.gif"
+                url: "./gif/OureaV2_test/Touch1.gif"
             }, {
                 title: "Touch2",
-                url: "./animation/gif/OureaV2_test/Touch2.gif"
+                url: "./gif/OureaV2_test/Touch2.gif"
             }, {
                 title: "Unuse_Idle1",
-                url: "./animation/gif/OureaV2_test/Unuse_Idle1.gif"
+                url: "./gif/OureaV2_test/Unuse_Idle1.gif"
             }, {
                 title: "Unuse_Touch1",
-                url: "./animation/gif/OureaV2_test/Unuse_Touch1.gif"
+                url: "./gif/OureaV2_test/Unuse_Touch1.gif"
             }, {
                 title: "Walk",
-                url: "./animation/gif/OureaV2_test/Walk.gif"
+                url: "./gif/OureaV2_test/Walk.gif"
             }
         ],
         Melody0802merge: [{
                 title: "Idle1",
-                url: "./animation/gif/Melody0802merge/Idle1.gif"
+                url: "./gif/Melody0802merge/Idle1.gif"
             }, {
                 title: "Idle2",
-                url: "./animation/gif/Melody0802merge/Idle2.gif"
+                url: "./gif/Melody0802merge/Idle2.gif"
             }, {
                 title: "PickUp",
-                url: "./animation/gif/Melody0802merge/PickUp.gif"
+                url: "./gif/Melody0802merge/PickUp.gif"
             }, {
                 title: "Touch1",
-                url: "./animation/gif/Melody0802merge/Touch1.gif"
+                url: "./gif/Melody0802merge/Touch1.gif"
             }, {
                 title: "Touch2",
-                url: "./animation/gif/Melody0802merge/Touch2.gif"
+                url: "./gif/Melody0802merge/Touch2.gif"
             }, {
                 title: "Walk",
-                url: "./animation/gif/Melody0802merge/Walk.gif"
+                url: "./gif/Melody0802merge/Walk.gif"
             }
         ],
         Snow_0727: [{
                 title: "Idle1",
-                url: "./animation/gif/Snow_0727/Idle1.gif"
+                url: "./gif/Snow_0727/Idle1.gif"
             }, {
                 title: "Idle2",
-                url: "./animation/gif/Snow_0727/Idle2.gif"
+                url: "./gif/Snow_0727/Idle2.gif"
             }, {
                 title: "PickUp",
-                url: "./animation/gif/Snow_0727/PickUp.gif"
+                url: "./gif/Snow_0727/PickUp.gif"
             }, {
                 title: "Touch1",
-                url: "./animation/gif/Snow_0727/Touch1.gif"
+                url: "./gif/Snow_0727/Touch1.gif"
             }, {
                 title: "Touch2",
-                url: "./animation/gif/Snow_0727/Touch2.gif"
+                url: "./gif/Snow_0727/Touch2.gif"
             }, {
                 title: "Walk",
-                url: "./animation/gif/Snow_0727/Walk.gif"
+                url: "./gif/Snow_0727/Walk.gif"
             }
         ],
         LIN_edit: [{
                 title: "Idle1",
-                url: "./animation/gif/LIN_edit/Idle1.gif"
+                url: "./gif/LIN_edit/Idle1.gif"
             }, {
                 title: "Idle2",
-                url: "./animation/gif/LIN_edit/Idle2.gif"
+                url: "./gif/LIN_edit/Idle2.gif"
             }, {
                 title: "PickUp",
-                url: "./animation/gif/LIN_edit/PickUp.gif"
+                url: "./gif/LIN_edit/PickUp.gif"
             }, {
                 title: "Reaction",
-                url: "./animation/gif/LIN_edit/Reaction.gif"
+                url: "./gif/LIN_edit/Reaction.gif"
             }, {
                 title: "Touch1",
-                url: "./animation/gif/LIN_edit/Touch1.gif"
+                url: "./gif/LIN_edit/Touch1.gif"
             }, {
                 title: "Touch2",
-                url: "./animation/gif/LIN_edit/Touch2.gif"
+                url: "./gif/LIN_edit/Touch2.gif"
             }, {
                 title: "Walk",
-                url: "./animation/gif/LIN_edit/Walk.gif"
+                url: "./gif/LIN_edit/Walk.gif"
             }
         ],
         Nocturne0318B: [{
                 title: "Idle1",
-                url: "./animation/gif/Nocturne0318B/Idle1.gif"
+                url: "./gif/Nocturne0318B/Idle1.gif"
             }, {
                 title: "Idle2",
-                url: "./animation/gif/Nocturne0318B/Idle2.gif"
+                url: "./gif/Nocturne0318B/Idle2.gif"
             }, {
                 title: "PickUp",
-                url: "./animation/gif/Nocturne0318B/PickUp.gif"
+                url: "./gif/Nocturne0318B/PickUp.gif"
             }, {
                 title: "Reaction",
-                url: "./animation/gif/Nocturne0318B/Reaction.gif"
+                url: "./gif/Nocturne0318B/Reaction.gif"
             }, {
                 title: "Touch1",
-                url: "./animation/gif/Nocturne0318B/Touch1.gif"
+                url: "./gif/Nocturne0318B/Touch1.gif"
             }, {
                 title: "Touch2",
-                url: "./animation/gif/Nocturne0318B/Touch2.gif"
+                url: "./gif/Nocturne0318B/Touch2.gif"
             }, {
                 title: "Walk",
-                url: "./animation/gif/Nocturne0318B/Walk.gif"
+                url: "./gif/Nocturne0318B/Walk.gif"
             }
         ],
         BlackGaGa_edit: [{
                 title: "Idle1",
-                url: "./animation/gif/BlackGaGa_edit/Idle1.gif"
+                url: "./gif/BlackGaGa_edit/Idle1.gif"
             }, {
                 title: "Idle2",
-                url: "./animation/gif/BlackGaGa_edit/Idle2.gif"
+                url: "./gif/BlackGaGa_edit/Idle2.gif"
             }, {
                 title: "PickUp",
-                url: "./animation/gif/BlackGaGa_edit/PickUp.gif"
+                url: "./gif/BlackGaGa_edit/PickUp.gif"
             }, {
                 title: "Touch1",
-                url: "./animation/gif/BlackGaGa_edit/Touch1.gif"
+                url: "./gif/BlackGaGa_edit/Touch1.gif"
             }, {
                 title: "Touch2",
-                url: "./animation/gif/BlackGaGa_edit/Touch2.gif"
+                url: "./gif/BlackGaGa_edit/Touch2.gif"
             }, {
                 title: "Walk",
-                url: "./animation/gif/BlackGaGa_edit/Walk.gif"
+                url: "./gif/BlackGaGa_edit/Walk.gif"
             }
         ],
 		kamila_edit: [{
                 title: "Idle1",
-                url: "./animation/gif/kamila_edit/Idle1.gif"
+                url: "./gif/kamila_edit/Idle1.gif"
             }, {
                 title: "Idle2",
-                url: "./animation/gif/kamila_edit/Idle2.gif"
+                url: "./gif/kamila_edit/Idle2.gif"
             }, {
                 title: "PickUp",
-                url: "./animation/gif/kamila_edit/PickUp.gif"
+                url: "./gif/kamila_edit/PickUp.gif"
             }, {
                 title: "Reaction",
-                url: "./animation/gif/kamila_edit/Reaction.gif"
+                url: "./gif/kamila_edit/Reaction.gif"
             }, {
                 title: "Touch1",
-                url: "./animation/gif/kamila_edit/Touch1.gif"
+                url: "./gif/kamila_edit/Touch1.gif"
             }, {
                 title: "Touch2",
-                url: "./animation/gif/kamila_edit/Touch2.gif"
+                url: "./gif/kamila_edit/Touch2.gif"
             }, {
                 title: "Walk",
-                url: "./animation/gif/kamila_edit/Walk.gif"
+                url: "./gif/kamila_edit/Walk.gif"
             }
         ]
     }
