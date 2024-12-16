@@ -204,6 +204,10 @@ const videoData = {
                 category: "kamila_edit",
                 src: "https://crqrobdla.github.io/spine-animation-video/img/SecretBaseCharacter_8_rgba.png",
                 alt: "kamila_edit"
+            }, {
+                category: "Rene_edit",
+                src: "https://crqrobdla.github.io/spine-animation-video/img/SecretBaseCharacter_9_rgba.png",
+                alt: "Rene_edit"
             }
         ],
         Shroy_sep: [{
@@ -364,7 +368,7 @@ const videoData = {
                 url: "https://crqrobdla.github.io/spine-animation-video/gif/BlackGaGa_edit/Walk.gif"
             }
         ],
-		kamila_edit: [{
+        kamila_edit: [{
                 title: "Idle1",
                 url: "https://crqrobdla.github.io/spine-animation-video/gif/kamila_edit/Idle1.gif"
             }, {
@@ -385,6 +389,26 @@ const videoData = {
             }, {
                 title: "Walk",
                 url: "https://crqrobdla.github.io/spine-animation-video/gif/kamila_edit/Walk.gif"
+            }
+        ],
+        Rene_edit: [{
+                title: "Idle1",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Rene_edit/Idle1.gif"
+            }, {
+                title: "Idle2",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Rene_edit/Idle2.gif"
+            }, {
+                title: "PickUp",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Rene_edit/PickUp.gif"
+            }, {
+                title: "Touch1",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Rene_edit/Touch1.gif"
+            }, {
+                title: "Touch2",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Rene_edit/Touch2.gif"
+            }, {
+                title: "Walk",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Rene_edit/Walk.gif"
             }
         ]
     }
