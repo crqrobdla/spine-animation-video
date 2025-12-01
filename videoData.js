@@ -2,59 +2,59 @@ const videoData = {
     character: {
         categories: [{
                 category: "skeleton",
-                src: "https://web-assets.tosconfig.com/gallery/icons/10560.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/10560.jpg",
                 alt: "skeleton"
             }, {
                 category: "PROMETHEUS",
-                src: "https://web-assets.tosconfig.com/gallery/icons/10616.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/10616.jpg",
                 alt: "PROMETHEUS"
             }, {
                 category: "nero",
-                src: "https://web-assets.tosconfig.com/gallery/icons/10617.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/10617.jpg",
                 alt: "nero"
             }, {
                 category: "ChiYou",
-                src: "https://web-assets.tosconfig.com/gallery/icons/2863.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/2863.jpg",
                 alt: "ChiYou"
             }, {
                 category: "poon",
-                src: "https://web-assets.tosconfig.com/gallery/icons/10620.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/10620.jpg",
                 alt: "poon"
             }, {
                 category: "lindaiyu",
-                src: "https://web-assets.tosconfig.com/gallery/icons/10622.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/10622.jpg",
                 alt: "lindaiyu"
             }, {
                 category: "QingGui",
-                src: "https://web-assets.tosconfig.com/gallery/icons/2865.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/2865.jpg",
                 alt: "QingGui"
             }, {
                 category: "Montana",
-                src: "https://web-assets.tosconfig.com/gallery/icons/10659.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/10659.jpg",
                 alt: "Montana"
             }, {
                 category: "Scáthach",
-                src: "https://web-assets.tosconfig.com/gallery/icons/10660.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/10660.jpg",
                 alt: "Scáthach"
             }, {
                 category: "HJJ",
-                src: "https://web-assets.tosconfig.com/gallery/icons/10683.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/10683.jpg",
                 alt: "HJJ"
             }, {
                 category: "pandora",
-                src: "https://web-assets.tosconfig.com/gallery/icons/2860.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/2860.jpg",
                 alt: "pandora"
             }, {
                 category: "sodom",
-                src: "https://web-assets.tosconfig.com/gallery/icons/10714.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/10714.jpg",
                 alt: "sodom"
             }, {
                 category: "Luker",
-                src: "https://web-assets.tosconfig.com/gallery/icons/10715.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/10715.jpg",
                 alt: "Luker"
             }, {
                 category: "Vatican1",
-                src: "https://web-assets.tosconfig.com/gallery/icons/10726.jpg",
+                src: "https://d1h5mn9kk900cf.cloudfront.net/toswebsites/gallery/icons/10726.jpg",
                 alt: "Vatican1"
             }
         ],
@@ -208,6 +208,10 @@ const videoData = {
                 category: "Rene_edit",
                 src: "https://crqrobdla.github.io/spine-animation-video/img/SecretBaseCharacter_9_rgba.png",
                 alt: "Rene_edit"
+            }, {
+                category: "capoo_base_1022_edit",
+                src: "https://crqrobdla.github.io/spine-animation-video/img/SecretBaseCharacter_10_rgba.png",
+                alt: "capoo_base_1022_edit"
             }
         ],
         Shroy_sep: [{
@@ -410,6 +414,29 @@ const videoData = {
                 title: "Walk",
                 url: "https://crqrobdla.github.io/spine-animation-video/gif/Rene_edit/Walk.gif"
             }
+        ],
+        capoo_base_1022_edit: [{
+                title: "Idle1",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/capoo_base_1022_edit/Idle1.gif"
+            }, {
+                title: "Idle2",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/capoo_base_1022_edit/Idle2.gif"
+            }, {
+                title: "PickUp",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/capoo_base_1022_edit/PickUp.gif"
+            }, {
+                title: "Reaction",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/capoo_base_1022_edit/Reaction.gif"
+            }, {
+                title: "Touch1",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/capoo_base_1022_edit/Touch1.gif"
+            }, {
+                title: "Touch2",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/capoo_base_1022_edit/Touch2.gif"
+            }, {
+                title: "Walk",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/capoo_base_1022_edit/Walk.gif"
+            },
         ]
     }
 };
