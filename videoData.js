@@ -296,6 +296,9 @@ const videoData = {
                 title: "PickUp",
                 url: "https://crqrobdla.github.io/spine-animation-video/gif/Snow_0727/PickUp.gif"
             }, {
+                title: "Reaction",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Snow_0727/Reaction.gif"
+            }, {
                 title: "Touch1",
                 url: "https://crqrobdla.github.io/spine-animation-video/gif/Snow_0727/Touch1.gif"
             }, {
