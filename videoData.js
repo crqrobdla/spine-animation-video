@@ -212,6 +212,10 @@ const videoData = {
                 category: "capoo_base_1022_edit",
                 src: "https://crqrobdla.github.io/spine-animation-video/img/SecretBaseCharacter_10_rgba.png",
                 alt: "capoo_base_1022_edit"
+            }, {
+                category: "Mandala_edit",
+                src: "https://crqrobdla.github.io/spine-animation-video/img/SecretBaseCharacter_11_rgba.png",
+                alt: "Mandala_edit"
             }
         ],
         Shroy_sep: [{
@@ -439,8 +443,29 @@ const videoData = {
             }, {
                 title: "Walk",
                 url: "https://crqrobdla.github.io/spine-animation-video/gif/capoo_base_1022_edit/Walk.gif"
-            },
-        ]
+            }, ],
+        Mandala_edit: [{
+                title: "Idle1",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Mandala_edit/Idle1.gif"
+            }, {
+                title: "Idle2",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Mandala_edit/Idle2.gif"
+            }, {
+                title: "PickUp",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Mandala_edit/PickUp.gif"
+            }, {
+                title: "Reaction",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Mandala_edit/Reaction.gif"
+            }, {
+                title: "Touch1",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Mandala_edit/Touch1.gif"
+            }, {
+                title: "Touch2",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Mandala_edit/Touch2.gif"
+            }, {
+                title: "Walk",
+                url: "https://crqrobdla.github.io/spine-animation-video/gif/Mandala_edit/Walk.gif"
+            }, ]
     }
 };
 export default videoData;
